@@ -1,4 +1,6 @@
-原api已无法使用，重写[网络天才](https://github.com/HMScygnet/akinator/tree/master)以适配最新akiapi
+原api已无法使用，重写[网络天才](https://github.com/HMScygnet/akinator/tree/master)以适配最新akiapi。
+
+以后有时间加个私聊功能避免刷屏。
 # 网络天才
 
 通过一系列不同的问题，让玩家回答“是”、“否”、“不知道”、“或许是”或“或许不是”，以缩小符合条件的人物范围，最后询问玩家它所猜出的这个人物是否正确。
