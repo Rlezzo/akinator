@@ -1,10 +1,13 @@
+原api已无法使用，重写[网络天才](https://github.com/HMScygnet/akinator/tree/master)以适配最新akiapi
 # 网络天才
 
 通过一系列不同的问题，让玩家回答“是”、“否”、“不知道”、“或许是”或“或许不是”，以缩小符合条件的人物范围，最后询问玩家它所猜出的这个人物是否正确。
 
 ## 使用说明
 
-由于中国大陆境内无法访问akinator网站，所以必须在`utils.py`中填写代理地址，否则插件将无法使用
+由于中国大陆境内无法访问akinator网站，所以必须在`config.ini`中填写代理地址，否则插件将无法使用
+
+每个群同时只能有一个人进行游戏
 
 ## 指令说明
 
@@ -18,4 +21,4 @@
 ## 相关链接
 
 [akinator](https://akinator.com/)
-[akinator.py](https://github.com/Infiniticity/akinator.py)
+[akipy](https://github.com/advnpzn/akipy)
