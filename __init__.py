@@ -50,7 +50,7 @@ back = ['返回','上一个','b','B']
 
 bot = hoshino.get_bot()
 akiManager = AkiManager()
-answer_words = "\n（是/不是/可能是/可能不是/不知道/返回:b）"
+answer_words = "\n（是/不是/可能是/可能不是/不知道/返回/b）"
 
 @sv.on_fullmatch('网络天才')
 async def akinator_start(bot, ev: CQEvent):
